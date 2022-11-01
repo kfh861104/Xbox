@@ -69,7 +69,8 @@
 }
 .custom .quadrant{
 position: absolute;
-background: url(https://bit.ly/2HTk8ny);
+/* background: url(https://bit.ly/2HTk8ny); */
+background: url('Pink-Base.png');
 height: 17px;
 width: 111px;
 top: 140px;
